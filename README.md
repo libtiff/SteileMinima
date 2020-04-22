@@ -4,7 +4,9 @@ A graphical User Interface to help you construct and send the Confirmation of Mo
 
 #**Graphical User Inteface:**
 
-![GitHub Logo](https://github.com/libtiff/SteileMinima/blob/master/image.png) ![GitHub Logo](https://github.com/libtiff/SteileMinima/blob/master/image2.png)
+![GitHub Logo](https://github.com/libtiff/SteileMinima/blob/master/image.png) 
+![GitHub Logo](https://github.com/libtiff/SteileMinima/blob/master/inpicture.png)
+
 
 
 
