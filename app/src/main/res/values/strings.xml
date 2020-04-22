@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SteileMinima</string>
+    <string name="reason_prompt">Επιλέξτε Κατηγορία / Choose a Category</string>
+
+    <string-array name="reason_arrays">
+        <item></item>
+        <item>[1] Φαρμακεία-Ιατροί/Pharmacies-Doctors</item>
+        <item>[2] Τρόφιμα/SuperMarkets</item>
+        <item>[3] Τράπεζες/Banks</item>
+        <item>[4] Κρατικές Υπηρεσίες/Govermental Services</item>
+        <item>[5] Βοήθεια σε άτομα/Help People in Need</item>
+        <item>[6] Άσκηση-Κατοικίδια/Exercising-Pets</item>
+        <item>[7] Τελετές/Ceremonies</item>
+        <item>[8] Άλλος Λόγος/Other Reason</item>
+    </string-array>
+</resources>
