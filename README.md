@@ -4,7 +4,7 @@ This was meant to be a completely standalone confirmation requester but due to G
 
 #**Works only in Cyprus**
 
-#**Graphical User Inteface:**
+#**Graphical User Interface:**
 
 ![GitHub Logo](https://github.com/libtiff/SteileMinima/blob/master/image.png) 
 ![GitHub Logo](https://github.com/libtiff/SteileMinima/blob/master/inpicture.png)
